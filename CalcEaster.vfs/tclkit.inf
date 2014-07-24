@@ -1,0 +1,5 @@
+CompanyName "Mishmishah"
+LegalCopyright "GNU GPL v3.0"
+FileDescription "Displays the date of Easter for a given year according to the Gregorian, Julian, and Eastern Orthodox calendars."
+ProductName "Easter Calculations"
+ProductVersion "2.6.0"
