@@ -1,7 +1,7 @@
 EasterCalcsTcl
 ==============
 
-Tcl/Tk script to calculate the date of Easter (Julian and Gregorian) for any given year.
+Tcl/Tk script to calculate the date of Easter according to the Julian, Gregorian, and Revised Julian (or Milanković) calendars for any given year.
 
 Stand-alone executables (Starkits) are provided for Windows and Linux in the `bin` directory.
 
