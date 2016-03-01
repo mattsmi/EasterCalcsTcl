@@ -1,5 +1,5 @@
-EasterCalcsTcl
-==============
+Calculating Easter in Tcl/Tk
+============================
 
 Tcl/Tk script to calculate the date of Easter according to the Julian, Gregorian, and Revised Julian (or Milanković) calendars for any given year.
 
